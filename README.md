@@ -38,7 +38,7 @@ My passion lies in building efficient, scalable, and impactful software.
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Chinna30062005)  
+[![GitHub](https://github.com/Chinna30062005)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---
