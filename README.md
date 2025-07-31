@@ -39,7 +39,7 @@ My passion lies in building efficient, scalable, and impactful software.
 ## 🔗 Connect With Me
 
 [![GitHub](https://github.com/Chinna30062005)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn]https://www.linkedin.com/in/chinna-s-778222314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
